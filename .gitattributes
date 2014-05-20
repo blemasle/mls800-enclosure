@@ -1,5 +1,4 @@
 * text=auto !eol
-/Case.sldprt -text
 /CaseCover.sldprt -text
 /FrontPanel.sldprt -text
 /Part2.sldprt -text
