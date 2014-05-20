@@ -1,7 +1,7 @@
 * text=auto !eol
 /Case.sldprt -text
+/CaseCover.sldprt -text
 /FrontPanel.sldprt -text
-/Part1.sldprt -text
 /Rack[!!-~]unit.SLDASM -text
 Step/TL3240[!!-~][!!-~]Actuator.sldprt -text
 Step/TL3240[!!-~][!!-~]Actuator_1.sldprt -text
