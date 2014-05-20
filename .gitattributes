@@ -1,0 +1,21 @@
+* text=auto !eol
+/Case.sldprt -text
+/CaseCover.sldprt -text
+/FrontPanel.sldprt -text
+/Part5.sldprt -text
+/Rack[!!-~]unit.SLDASM -text
+Step/TL3240[!!-~][!!-~]Actuator.sldprt -text
+Step/TL3240[!!-~][!!-~]Actuator_1.sldprt -text
+Step/TL3240[!!-~]Rd[!!-~]Cap[!!-~]Assembly.sldasm -text
+Step/TL3240[!!-~]Rd[!!-~]Cap[!!-~]Clear[!!-~]Cover.sldprt -text
+Step/TL3240[!!-~]Rd[!!-~]Cap[!!-~]Insert.sldprt -text
+Step/TL3240[!!-~]SMT[!!-~]Housing.sldprt -text
+Step/TL3240[!!-~]SMT[!!-~]Housing_1.sldprt -text
+Step/TL3240[!!-~]SMT[!!-~]LED.sldprt -text
+Step/TL3240[!!-~]SMT[!!-~]LED_1.sldprt -text
+Step/TL3240Fxxxx.SLDASM -text
+Step/TL3240Fxxxx.stp -text
+Step/TL3240FxxxxTL3240R1CAPxxx.SLDASM -text
+Step/TL3240FxxxxTL3240R1CAPxxx.stp -text
+Step/TL3240R1CAPBLK.SLDASM -text
+Step/TL3240R1CAPBLK.stp -text
