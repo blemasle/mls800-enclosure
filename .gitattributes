@@ -2,6 +2,8 @@
 /Case.sldprt -text
 /CaseCover.sldprt -text
 /FrontPanel.sldprt -text
+/LTD-6910HR.SLDPRT -text
+/MLS800.SLDASM -text
 /Rack[!!-~]unit.SLDASM -text
 Step/TL3240[!!-~][!!-~]Actuator.sldprt -text
 Step/TL3240[!!-~][!!-~]Actuator_1.sldprt -text
