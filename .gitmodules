@@ -1,0 +1,3 @@
+[submodule "rackunit"]
+	path = rackunit
+	url = ../solidworks-rackunit.git
