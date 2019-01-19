@@ -13,10 +13,10 @@ The MLS800 is an open-source 1U rack unit MIDI controlled Loop Switcher with 8 a
 
 This repository contains Solidworks files needed to produce the case.  
 
-![MLS800 preview 1](https://blemasle.github.io/mls800/assets/product-back.gif)
+![MLS800 preview 2](https://blemasle.github.io/mls800/assets/product-back.gif)
 
 See the [documentation](https://blemasle.github.io/mls800) for futher info on the project.
 
 ## Cloning
 
-This repository use and need [Git Large File Storage](https://git-lfs.github.com/) for the cloned working copy to contains actual files.
+This repository uses and needs [Git Large File Storage](https://git-lfs.github.com/) to be installed for the cloned working copy to contains actual files.
